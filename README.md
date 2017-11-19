@@ -4,7 +4,7 @@ Instantly create Bootstrap carousels/sliders with a few lines of code. (JS and P
 # examples
 
 ## JS
-<code>
+'''
 <!-- Javascript Boostrap Carousel --> 
 <div id="newCarousel"></div>
 <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -43,10 +43,10 @@ Instantly create Bootstrap carousels/sliders with a few lines of code. (JS and P
     ]
   });
 </script>
-</code>
+'''
 
 ## PHP
-<code>
+'''
 // Import the BootstrapSlider class
 include 'build/BootstrapSlider.php';
 
@@ -76,4 +76,4 @@ $args = array(
 
 // Build a new slider with options
 $slider = new BootstrapSlider($args);
-</code>
+'''
