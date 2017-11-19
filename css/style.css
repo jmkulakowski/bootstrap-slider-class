@@ -1,0 +1,21 @@
+/**
+ * Styles
+ * ------
+ * The primary stylesheet for this application
+ */
+
+.carousel-caption {
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-inner .item img {
+	width: 100%;
+	object-fit: cover;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	background-image: none;
+}
