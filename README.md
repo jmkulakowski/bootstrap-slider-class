@@ -1,7 +1,7 @@
 # bootstrap-slider-class
-Instantly create Bootstrap carousels/sliders with a few lines of code. (JS and PHP versions)
+A class that allows one to instantly create Bootstrap carousels/sliders with a few lines of code. (JS and PHP versions)
 
-# examples
+# Examples
 
 ## JS
 ```
